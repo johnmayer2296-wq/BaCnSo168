@@ -1,4 +1,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
 	<url>
 		<loc>https://banibuba.com/index.html</loc>
 	</url>
@@ -11,4 +13,66 @@
 	<url>
 		<loc>https://banibuba.com/services.html</loc>
 	</url>
+
+	<url>
+		<loc>https://banibuba.com/eninsights/insights.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/encollections/collections.html</loc>
+	</url>
+
+
+
+
+
+	<url>
+		<loc>https://banibuba.com/ru/index.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/ru/about.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/ru/contacts.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/ru/services.html</loc>
+	</url>
+
+	<url>
+		<loc>https://banibuba.com/ruinsights/insights.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/rucollections/collections.html</loc>
+	</url>
+
+
+
+
+
+
+	<url>
+		<loc>https://banibuba.com/de/index.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/de/about.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/de/contacts.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/de/services.html</loc>
+	</url>
+
+	<url>
+		<loc>https://banibuba.com/deinsights/insights.html</loc>
+	</url>
+	<url>
+		<loc>https://banibuba.com/decollections/collections.html</loc>
+	</url>
+
+
+
+
+
+
 </urlset>
