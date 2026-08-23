@@ -4280,8 +4280,8 @@ a {
   color: #ffffff;
 }
 .cid-voXjdluWAm {
-  padding-top: 8rem;
-  padding-bottom: 3rem;
+  padding-top: 10rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-voXjdluWAm .mbr-fallback-image.disabled {
@@ -4302,60 +4302,38 @@ a {
 .cid-voXjdluWAm .mbr-section-subtitle {
   text-align: left;
 }
-.cid-voXglUSkr9 {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
+.cid-voXjdluWAm .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-vt7rm9IXqL {
+  padding-top: 1rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
 }
-.cid-voXglUSkr9 .mbr-fallback-image.disabled {
-  display: none;
+.cid-vt7rm9IXqL .mbr-overlay {
+  background-color: #edefeb;
+  opacity: 0.1;
 }
-.cid-voXglUSkr9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
+.cid-vt7rm9IXqL form .mbr-section-btn {
+  text-align: center;
   width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
 }
-.cid-voXglUSkr9 .img-wrapper {
-  text-align: center;
+.cid-vt7rm9IXqL form .mbr-section-btn .btn {
+  display: inline-flex;
 }
-.cid-voXglUSkr9 img {
-  margin: auto;
-  width: 200px;
-}
-.cid-voXglUSkr9 .row {
-  align-items: flex-start;
-}
-.cid-voXglUSkr9 .item-wrapper {
-  margin-bottom: 2rem;
-  background: #ffffff;
-  padding: 1rem;
-}
-@media (max-width: 767px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    margin-bottom: 1rem;
+@media (max-width: 991px) {
+  .cid-vt7rm9IXqL form .mbr-section-btn .btn {
+    width: 100%;
   }
 }
-@media (min-width: 768px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    margin-bottom: 3rem;
-  }
-}
-.cid-voXglUSkr9 .mbr-section-title,
-.cid-voXglUSkr9 .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-voXglUSkr9 .content-head {
+.cid-vt7rm9IXqL .content-head {
   max-width: 800px;
+}
+.cid-vt7rm9IXqL .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-vt7rm9IXqL .mbr-section-title {
+  text-align: center;
 }
 .cid-voXQN4CNFz {
   padding-top: 10rem;
