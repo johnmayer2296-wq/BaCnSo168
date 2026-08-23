@@ -38,27 +38,27 @@ body {
 }
 .display-4 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1.625rem;
+  font-size: 1.5rem;
 }
 .display-5 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
 }
 .display-7 {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.3;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.625rem;
+  font-size: 1.5rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -82,19 +82,19 @@ body {
     line-height: calc( 1.3 * (1.77rem + (3.2 - 1.77) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 1.04rem;
-    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
-    font-size: 1.04rem;
-    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 @media (min-width: 992px) and (max-width: 1400px) {
@@ -109,19 +109,19 @@ body {
     line-height: calc( 1.3 * (1.77rem + (3.2 - 1.77) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-4 {
-    font-size: 1.04rem;
-    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 62rem) / (87 - 62))));
   }
   .display-7 {
-    font-size: 1.04rem;
-    font-size: calc( 1.105rem + (1.3 - 1.105) * ((100vw - 62rem) / (87 - 62)));
-    line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 62rem) / (87 - 62))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 62rem) / (87 - 62))));
   }
 }
 /* Buttons */
@@ -635,12 +635,12 @@ a:hover {
 /* Scroll to top button*/
 .form-control {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.625rem;
+  font-size: 1.5rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -649,12 +649,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Inter Tight', sans-serif;
-  font-size: 1.3rem;
+  font-size: 1.2rem;
   line-height: 1.3;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1.625rem;
+  font-size: 1.5rem;
 }
 blockquote {
   border-color: #232323;
@@ -4279,15 +4279,15 @@ a {
 .cid-voXRr59lii .mbr-text {
   color: #ffffff;
 }
-.cid-voXjdluWAm {
-  padding-top: 8rem;
-  padding-bottom: 3rem;
+.cid-vt8aF9xgj3 {
+  padding-top: 10rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-voXjdluWAm .mbr-fallback-image.disabled {
+.cid-vt8aF9xgj3 .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-voXjdluWAm .mbr-fallback-image {
+.cid-vt8aF9xgj3 .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -4296,66 +4296,44 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-voXjdluWAm .mbr-section-title {
+.cid-vt8aF9xgj3 .mbr-section-title {
   text-align: left;
 }
-.cid-voXjdluWAm .mbr-section-subtitle {
+.cid-vt8aF9xgj3 .mbr-section-subtitle {
   text-align: left;
 }
-.cid-voXglUSkr9 {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
+.cid-vt8aF9xgj3 .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-vt8aG3J43p {
+  padding-top: 1rem;
+  padding-bottom: 10rem;
   background-color: #ffffff;
 }
-.cid-voXglUSkr9 .mbr-fallback-image.disabled {
-  display: none;
+.cid-vt8aG3J43p .mbr-overlay {
+  background-color: #edefeb;
+  opacity: 0.1;
 }
-.cid-voXglUSkr9 .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
+.cid-vt8aG3J43p form .mbr-section-btn {
+  text-align: center;
   width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
 }
-.cid-voXglUSkr9 .img-wrapper {
-  text-align: center;
+.cid-vt8aG3J43p form .mbr-section-btn .btn {
+  display: inline-flex;
 }
-.cid-voXglUSkr9 img {
-  margin: auto;
-  width: 200px;
-}
-.cid-voXglUSkr9 .row {
-  align-items: flex-start;
-}
-.cid-voXglUSkr9 .item-wrapper {
-  margin-bottom: 2rem;
-  background: #ffffff;
-  padding: 1rem;
-}
-@media (max-width: 767px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    margin-bottom: 1rem;
+@media (max-width: 991px) {
+  .cid-vt8aG3J43p form .mbr-section-btn .btn {
+    width: 100%;
   }
 }
-@media (min-width: 768px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    padding: 2rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-voXglUSkr9 .item-wrapper {
-    margin-bottom: 3rem;
-  }
-}
-.cid-voXglUSkr9 .mbr-section-title,
-.cid-voXglUSkr9 .mbr-section-subtitle {
-  text-align: center;
-  color: #000000;
-}
-.cid-voXglUSkr9 .content-head {
+.cid-vt8aG3J43p .content-head {
   max-width: 800px;
+}
+.cid-vt8aG3J43p .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-vt8aG3J43p .mbr-section-title {
+  text-align: center;
 }
 .cid-voXQN4CNFz {
   padding-top: 10rem;
