@@ -1342,11 +1342,11 @@ a {
   display: flex;
   padding-top: 24rem;
   padding-bottom: 12rem;
-  background-image: url("../../../assets/images/banner-03.webp");
+  background-image: url("../../../assets/images/banner-03-aaa.webp");
 }
 .cid-voSJXGG052 .mbr-overlay {
   background-color: #000000;
-  opacity: 0.7;
+  opacity: 0.5;
 }
 @media (min-width: 768px) {
   .cid-voSJXGG052 {
